@@ -123,9 +123,9 @@
 }
 .Services{
   margin: 40px, auto;
- /* gap: 50px; */
+ gap: 50px;
  display: flex;
- justify-content: space-evenly;
+ 
  
 }
 .available{
