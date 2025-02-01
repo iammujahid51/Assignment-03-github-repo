@@ -1,0 +1,126 @@
+.sora {
+  font-family: "Sora", serif;
+ 
+}
+
+/* header styles */
+
+
+.header{
+  margin-top:20px ;
+ margin: 0px;
+  background: linear-gradient(#FFFFFF, #EFEBE3);
+}
+.navbar{
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  justify-content: space-around;
+}
+.images{
+  display: flex;
+  
+  align-items: center;
+}
+.Product a{
+  text-decoration: none;
+  color: #111111;
+  padding-left: 40px;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.Product li{
+  list-style: none;
+}
+.Product {
+  display: flex;
+   gap: 32px;
+}
+.Login{
+  padding: 10px 30px ;
+  border-radius: 10px;
+  border: 1px solid #179800;
+  font-size: 1.23rem;
+  font-weight: 500;
+  margin: 0px 18px 10PX 5PX;
+
+  color: #111111;
+}
+.Register{
+  padding: 11px 30px ;
+  border-radius: 10px ;
+  color: #FFFFFF;
+  font-size: 1.23rem;
+  font-weight: 500;
+  border: none;
+  background-color: #179800;
+}
+.search{
+  max-width: 40%;
+  align-items: center;
+}
+.truck{
+  max-width: 40%;
+}
+
+/* section  style 1 */
+.vegetables{
+  max-width: 50%;
+ 
+}
+.every{
+  text-align: center;
+}
+.title{
+ font-size: 3.5rem;
+ font-weight:500;
+ margin-bottom: 10px;
+}
+.des{
+  font-size: 1.20rem;
+  font-weight: 400
+  color: #111111 ;
+}
+.Count{
+  color:#179800 ;
+}
+
+
+/* main section */
+.description{
+  width: 340px;
+  text-align: center;
+  margin: auto;
+  margin-bottom:20px;
+}
+.tit{
+  text-align: center;
+}
+.Servi{
+ 
+  margin: 190px 140px 100px 140px;
+}
+.Services{
+  margin: 40px, auto;
+ /* gap: 50px; */
+ display: flex;
+ justify-content: space-evenly;
+ 
+}
+.available{
+  background-color: #EFEBE3;
+  border-radius: 16px;
+  width: 490px;
+  
+}
+.img{
+margin-left: 190px;
+margin-top: 50px;
+}
+.Servic{
+  margin-left: 45px;
+  font-size: 2.20rem;
+  font-weight: 500;
+  color: #179800;
+}
