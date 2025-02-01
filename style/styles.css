@@ -357,3 +357,80 @@ margin-top: 50px;
   
   color: #179800;
 }
+/* chhhh */
+
+.input{
+  padding: 20px 90px;
+  border: none;
+  border-radius: 7px;
+}
+.Grocery{
+  font-size: 2.20rem;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+.ips{
+  font-size: 1.20rem;
+  font-weight: 500;
+}
+#button{
+  padding: 10px 30px;
+  font-size: 1.20rem;
+  
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border: none;
+  background-color: #179800;
+  border-radius: 7px;
+}
+.raining {
+  padding-top: 80px;
+  margin-left: 50px;
+}
+.busket{
+  display: flex;
+  gap: 100px;
+ 
+    border-radius: 24px;
+  background-color: #EFEBE3;
+ width: 1200px;
+ margin:80px 15px 10px 320px;
+ 
+}
+
+/* fotter styles */
+.Contact li{
+  list-style: none;
+  margin-top: 20px;
+}
+.Contact{
+  font-size: 1.20rem;
+  color:#FFFFFF;
+}
+.business{
+  display: flex;
+  gap: 20px;
+}
+.footer-section{
+ 
+ 
+  height: 400px;
+  background-color: #179800;
+}
+.footer-Contact{
+  display: flex;
+ height: 400px;
+  align-items:center;
+  justify-content: space-around;
+ 
+}
+
+.ipse{
+ font-size: 1.15rem;
+ color: #FFFFFF;
+}
+.Follow{
+  font-size: 1rem;
+  color: #FFFFFF;
+}
